@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+.localdata
+.npm-cache
+playwright-report
+test-results
+*.tsbuildinfo
+.claude/
